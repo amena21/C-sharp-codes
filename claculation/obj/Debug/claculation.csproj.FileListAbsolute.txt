@@ -1,0 +1,6 @@
+F:\MVC Project\claculation\claculation\bin\Debug\claculation.exe.config
+F:\MVC Project\claculation\claculation\obj\Debug\claculation.csprojResolveAssemblyReference.cache
+F:\MVC Project\claculation\claculation\bin\Debug\claculation.exe
+F:\MVC Project\claculation\claculation\bin\Debug\claculation.pdb
+F:\MVC Project\claculation\claculation\obj\Debug\claculation.exe
+F:\MVC Project\claculation\claculation\obj\Debug\claculation.pdb
