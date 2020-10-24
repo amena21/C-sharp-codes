@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\factorial\factorial\bin\Debug\factorial.exe.config
+F:\MVC Project\C_sharpe_Program\factorial\factorial\bin\Debug\factorial.exe
+F:\MVC Project\C_sharpe_Program\factorial\factorial\bin\Debug\factorial.pdb
+F:\MVC Project\C_sharpe_Program\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\factorial\factorial\obj\Debug\factorial.exe
+F:\MVC Project\C_sharpe_Program\factorial\factorial\obj\Debug\factorial.pdb

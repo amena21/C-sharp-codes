@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\convert_km_mile\convert_km_mile\bin\Debug\convert_km_mile.exe.config
+F:\MVC Project\C_sharpe_Program\convert_km_mile\convert_km_mile\bin\Debug\convert_km_mile.exe
+F:\MVC Project\C_sharpe_Program\convert_km_mile\convert_km_mile\bin\Debug\convert_km_mile.pdb
+F:\MVC Project\C_sharpe_Program\convert_km_mile\convert_km_mile\obj\Debug\convert_km_mile.csprojResolveAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\convert_km_mile\convert_km_mile\obj\Debug\convert_km_mile.exe
+F:\MVC Project\C_sharpe_Program\convert_km_mile\convert_km_mile\obj\Debug\convert_km_mile.pdb

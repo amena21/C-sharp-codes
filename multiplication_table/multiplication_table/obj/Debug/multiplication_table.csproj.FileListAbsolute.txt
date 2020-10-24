@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\multiplication_table\multiplication_table\bin\Debug\multiplication_table.exe.config
+F:\MVC Project\C_sharpe_Program\multiplication_table\multiplication_table\bin\Debug\multiplication_table.exe
+F:\MVC Project\C_sharpe_Program\multiplication_table\multiplication_table\bin\Debug\multiplication_table.pdb
+F:\MVC Project\C_sharpe_Program\multiplication_table\multiplication_table\obj\Debug\multiplication_table.csprojResolveAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\multiplication_table\multiplication_table\obj\Debug\multiplication_table.exe
+F:\MVC Project\C_sharpe_Program\multiplication_table\multiplication_table\obj\Debug\multiplication_table.pdb

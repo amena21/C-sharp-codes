@@ -1,0 +1,5 @@
+F:\MVC Project\C_sharpe_Program\Larges_Three_Numbers\Larges_Three_Numbers\bin\Debug\Larges_Three_Numbers.exe.config
+F:\MVC Project\C_sharpe_Program\Larges_Three_Numbers\Larges_Three_Numbers\bin\Debug\Larges_Three_Numbers.exe
+F:\MVC Project\C_sharpe_Program\Larges_Three_Numbers\Larges_Three_Numbers\bin\Debug\Larges_Three_Numbers.pdb
+F:\MVC Project\C_sharpe_Program\Larges_Three_Numbers\Larges_Three_Numbers\obj\Debug\Larges_Three_Numbers.exe
+F:\MVC Project\C_sharpe_Program\Larges_Three_Numbers\Larges_Three_Numbers\obj\Debug\Larges_Three_Numbers.pdb

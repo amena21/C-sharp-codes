@@ -1,0 +1,13 @@
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\bin\Debug\netcoreapp3.1\ArmstrongIntervel.exe
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\bin\Debug\netcoreapp3.1\ArmstrongIntervel.deps.json
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\bin\Debug\netcoreapp3.1\ArmstrongIntervel.runtimeconfig.json
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\bin\Debug\netcoreapp3.1\ArmstrongIntervel.runtimeconfig.dev.json
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\bin\Debug\netcoreapp3.1\ArmstrongIntervel.dll
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\bin\Debug\netcoreapp3.1\ArmstrongIntervel.pdb
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.csprojAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.AssemblyInfoInputs.cache
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.AssemblyInfo.cs
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.csproj.CoreCompileInputs.cache
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.dll
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.pdb
+F:\MVC Project\C_sharpe_Program\ArmstrongIntervel\ArmstrongIntervel\obj\Debug\netcoreapp3.1\ArmstrongIntervel.genruntimeconfig.cache

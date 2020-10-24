@@ -1,0 +1,13 @@
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\bin\Debug\netcoreapp3.1\NaturalNumSum.exe
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\bin\Debug\netcoreapp3.1\NaturalNumSum.deps.json
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\bin\Debug\netcoreapp3.1\NaturalNumSum.runtimeconfig.json
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\bin\Debug\netcoreapp3.1\NaturalNumSum.runtimeconfig.dev.json
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\bin\Debug\netcoreapp3.1\NaturalNumSum.dll
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\bin\Debug\netcoreapp3.1\NaturalNumSum.pdb
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.csprojAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.AssemblyInfoInputs.cache
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.AssemblyInfo.cs
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.csproj.CoreCompileInputs.cache
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.dll
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.pdb
+F:\MVC Project\C_sharpe_Program\NaturalNumSum\NaturalNumSum\obj\Debug\netcoreapp3.1\NaturalNumSum.genruntimeconfig.cache

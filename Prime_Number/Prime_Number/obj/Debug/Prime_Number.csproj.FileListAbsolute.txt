@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\Prime_Number\Prime_Number\bin\Debug\Prime_Number.exe.config
+F:\MVC Project\C_sharpe_Program\Prime_Number\Prime_Number\bin\Debug\Prime_Number.exe
+F:\MVC Project\C_sharpe_Program\Prime_Number\Prime_Number\bin\Debug\Prime_Number.pdb
+F:\MVC Project\C_sharpe_Program\Prime_Number\Prime_Number\obj\Debug\Prime_Number.exe
+F:\MVC Project\C_sharpe_Program\Prime_Number\Prime_Number\obj\Debug\Prime_Number.pdb
+F:\MVC Project\C_sharpe_Program\Prime_Number\Prime_Number\obj\Debug\Prime_Number.csprojResolveAssemblyReference.cache

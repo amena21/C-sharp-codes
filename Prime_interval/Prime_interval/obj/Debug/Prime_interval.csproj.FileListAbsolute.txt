@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\Prime_interval\Prime_interval\bin\Debug\Prime_interval.exe.config
+F:\MVC Project\C_sharpe_Program\Prime_interval\Prime_interval\bin\Debug\Prime_interval.exe
+F:\MVC Project\C_sharpe_Program\Prime_interval\Prime_interval\bin\Debug\Prime_interval.pdb
+F:\MVC Project\C_sharpe_Program\Prime_interval\Prime_interval\obj\Debug\Prime_interval.csprojResolveAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\Prime_interval\Prime_interval\obj\Debug\Prime_interval.exe
+F:\MVC Project\C_sharpe_Program\Prime_interval\Prime_interval\obj\Debug\Prime_interval.pdb

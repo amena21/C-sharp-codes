@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\Generate_Random_Number\Generate_Random_Number\bin\Debug\Generate_Random_Number.exe.config
+F:\MVC Project\C_sharpe_Program\Generate_Random_Number\Generate_Random_Number\obj\Debug\Generate_Random_Number.csprojResolveAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\Generate_Random_Number\Generate_Random_Number\bin\Debug\Generate_Random_Number.exe
+F:\MVC Project\C_sharpe_Program\Generate_Random_Number\Generate_Random_Number\bin\Debug\Generate_Random_Number.pdb
+F:\MVC Project\C_sharpe_Program\Generate_Random_Number\Generate_Random_Number\obj\Debug\Generate_Random_Number.exe
+F:\MVC Project\C_sharpe_Program\Generate_Random_Number\Generate_Random_Number\obj\Debug\Generate_Random_Number.pdb

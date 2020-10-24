@@ -1,0 +1,5 @@
+F:\MVC Project\C_sharpe_Program\positive_negative\positive_negative\bin\Debug\positive_negative.exe.config
+F:\MVC Project\C_sharpe_Program\positive_negative\positive_negative\bin\Debug\positive_negative.exe
+F:\MVC Project\C_sharpe_Program\positive_negative\positive_negative\bin\Debug\positive_negative.pdb
+F:\MVC Project\C_sharpe_Program\positive_negative\positive_negative\obj\Debug\positive_negative.exe
+F:\MVC Project\C_sharpe_Program\positive_negative\positive_negative\obj\Debug\positive_negative.pdb

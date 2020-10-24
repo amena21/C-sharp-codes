@@ -1,0 +1,6 @@
+F:\MVC Project\C_sharpe_Program\Convert_Celsius_Fahrenheit\Convert_Celsius_Fahrenheit\bin\Debug\Convert_Celsius_Fahrenheit.exe.config
+F:\MVC Project\C_sharpe_Program\Convert_Celsius_Fahrenheit\Convert_Celsius_Fahrenheit\obj\Debug\Convert_Celsius_Fahrenheit.csprojResolveAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\Convert_Celsius_Fahrenheit\Convert_Celsius_Fahrenheit\bin\Debug\Convert_Celsius_Fahrenheit.exe
+F:\MVC Project\C_sharpe_Program\Convert_Celsius_Fahrenheit\Convert_Celsius_Fahrenheit\bin\Debug\Convert_Celsius_Fahrenheit.pdb
+F:\MVC Project\C_sharpe_Program\Convert_Celsius_Fahrenheit\Convert_Celsius_Fahrenheit\obj\Debug\Convert_Celsius_Fahrenheit.exe
+F:\MVC Project\C_sharpe_Program\Convert_Celsius_Fahrenheit\Convert_Celsius_Fahrenheit\obj\Debug\Convert_Celsius_Fahrenheit.pdb

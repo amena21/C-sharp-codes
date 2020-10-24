@@ -1,0 +1,13 @@
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\bin\Debug\netcoreapp3.1\power-of-num.exe
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\bin\Debug\netcoreapp3.1\power-of-num.deps.json
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\bin\Debug\netcoreapp3.1\power-of-num.runtimeconfig.json
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\bin\Debug\netcoreapp3.1\power-of-num.runtimeconfig.dev.json
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\bin\Debug\netcoreapp3.1\power-of-num.dll
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\bin\Debug\netcoreapp3.1\power-of-num.pdb
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.csprojAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.AssemblyInfoInputs.cache
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.AssemblyInfo.cs
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.csproj.CoreCompileInputs.cache
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.dll
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.pdb
+F:\MVC Project\C_sharpe_Program\power-of-num\power-of-num\obj\Debug\netcoreapp3.1\power-of-num.genruntimeconfig.cache

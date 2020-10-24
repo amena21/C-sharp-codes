@@ -1,0 +1,5 @@
+F:\MVC Project\C_sharpe_Program\odd_even\odd_even\bin\Debug\odd_even.exe.config
+F:\MVC Project\C_sharpe_Program\odd_even\odd_even\bin\Debug\odd_even.exe
+F:\MVC Project\C_sharpe_Program\odd_even\odd_even\bin\Debug\odd_even.pdb
+F:\MVC Project\C_sharpe_Program\odd_even\odd_even\obj\Debug\odd_even.exe
+F:\MVC Project\C_sharpe_Program\odd_even\odd_even\obj\Debug\odd_even.pdb
