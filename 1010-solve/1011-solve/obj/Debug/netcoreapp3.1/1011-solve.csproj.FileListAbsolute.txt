@@ -1,0 +1,13 @@
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\bin\Debug\netcoreapp3.1\1011-solve.exe
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\bin\Debug\netcoreapp3.1\1011-solve.deps.json
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\bin\Debug\netcoreapp3.1\1011-solve.runtimeconfig.json
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\bin\Debug\netcoreapp3.1\1011-solve.runtimeconfig.dev.json
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\bin\Debug\netcoreapp3.1\1011-solve.dll
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\bin\Debug\netcoreapp3.1\1011-solve.pdb
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.csprojAssemblyReference.cache
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.AssemblyInfoInputs.cache
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.AssemblyInfo.cs
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.csproj.CoreCompileInputs.cache
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.dll
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.pdb
+F:\MVC Project\C_sharpe_Program\1010-solve\1011-solve\obj\Debug\netcoreapp3.1\1011-solve.genruntimeconfig.cache
